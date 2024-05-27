@@ -1,0 +1,18 @@
+Type,Region,Make,Gear_Type,Origin,Options,Year,Engine_Size,Mileage,Negotiable,Price
+Grand Cherokee,Najran,Jeep,Automatic,Saudi,Full,2017,5.7,13300,False,3100.0
+Sunny,Riyadh,Nissan,Manual,Saudi,Standard,2011,1.4,290,False,7000.0
+Other,Jeddah,Other,Manual,Other,Semi Full,2021,1.2,3000,False,5500.0
+Cadenza,Riyadh,Kia,Automatic,Saudi,Standard,2020,3.3,33300,False,2191.0
+Durango,Riyadh,Dodge,Automatic,Saudi,Full,2019,3.6,95000,False,2820.0
+H1,Taef,Hyundai,Automatic,Saudi,Semi Full,2016,1.4,127000,False,1959.0
+Camry,Hafar Al-Batin,Toyota,Automatic,Saudi,Semi Full,2020,2.5,53800,False,1700.0
+Corolla,Hail,Toyota,Automatic,Saudi,Standard,2020,1.6,48563,False,1002.0
+Optra,Riyadh,Chevrolet,Automatic,Saudi,Standard,2007,1.6,2000000,False,5000.0
+Accent,Dammam,Hyundai,Manual,Saudi,Standard,2005,1.5,294602,False,5000.0
+Sonata,Khobar,Hyundai,Automatic,Saudi,Semi Full,2019,2.5,120,False,1550.0
+Camry,Jeddah,Toyota,Automatic,Saudi,Standard,2019,2.5,62000,False,1595.0
+Expedition,Al-Jouf,Ford,Automatic,Saudi,Full,2003,5.4,400000,False,4000.0
+Suburban,Aseer,GMC,Automatic,Saudi,Semi Full,1990,3.5,140000,False,5000.0
+RX5,Riyadh,MG,Automatic,Saudi,Full,2019,3.1,49000,False,1325.0
+Tucson,Riyadh,Hyundai,Automatic,Saudi,Semi Full,2019,2.0,101000,False,1300.0
+Yaris,Najran,Toyota,Automatic,Saudi,Full,2018,1.5,169000,False,1046.0

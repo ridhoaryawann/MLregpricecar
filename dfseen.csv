@@ -1,0 +1,67 @@
+Type,Region,Make,Gear_Type,Origin,Options,Year,Engine_Size,Mileage,Negotiable,Price
+Sonata,Taef,Hyundai,Automatic,Saudi,Semi Full,2020,2.5,14000,False,1430.0
+Outlander,Qassim,Mitsubishi,Automatic,Saudi,Semi Full,2020,2.4,43000,False,1625.0
+Elantra,Makkah,Hyundai,Automatic,Saudi,Semi Full,2021,2.0,7500,False,1368.0
+Elantra,Riyadh,Hyundai,Automatic,Saudi,Semi Full,2020,2.0,47000,False,1221.0
+Azera,Jeddah,Hyundai,Automatic,Saudi,Standard,2021,3.5,10000,False,1800.0
+D'max,Jeddah,Suzuki,Manual,Other,Full,2001,1.0,1000,False,7000.0
+Caprice,Riyadh,Chevrolet,Automatic,Saudi,Standard,2006,3.6,380000,False,5000.0
+Sonata,Riyadh,Hyundai,Automatic,Saudi,Semi Full,2020,2.5,47000,False,2314.0
+Sonata,Aseer,Hyundai,Automatic,Saudi,Standard,2018,2.4,200000,False,1342.0
+Tahoe,Jeddah,Chevrolet,Automatic,Saudi,Standard,2016,5.3,140641,False,2333.0
+Duster,Al-Ahsa,Renault,Automatic,Saudi,Full,2017,2.0,106000,False,1128.0
+Other,Al-Baha,Other,Manual,Other,Standard,2020,1.1,2848,False,2000.0
+Sonata,Riyadh,Hyundai,Automatic,Saudi,Semi Full,2018,2.4,66000,False,1670.0
+Caprice,Riyadh,Chevrolet,Automatic,Other,Full,1995,5.5,252,False,4500.0
+Kona,Al-Medina,Hyundai,Automatic,Saudi,Standard,2020,2.0,6400,False,1156.0
+Wingle,Jeddah,Great Wall,Manual,Saudi,Full,2020,2.0,73000,False,1197.0
+Land Cruiser 70,Taef,Toyota,Manual,Saudi,Full,2020,4.0,45000,False,2450.0
+G80,Riyadh,Genesis,Automatic,Other,Semi Full,2018,3.8,170000,False,953.8000000000001
+Corolla,Riyadh,Toyota,Automatic,Gulf Arabic,Semi Full,2020,1.6,66796,False,1872.0
+RX5,Taef,MG,Automatic,Gulf Arabic,Full,2019,2.0,42000,False,1310.0
+Edge,Jeddah,Ford,Automatic,Saudi,Full,2014,3.6,99000,False,1500.0
+Senta fe,Riyadh,Hyundai,Automatic,Saudi,Standard,2016,3.3,199,False,1576.0
+Victoria,Riyadh,Ford,Automatic,Saudi,Full,2001,4.6,399249,False,3000.0
+Charger,Jubail,Dodge,Automatic,Saudi,Semi Full,2019,3.6,51000,False,2069.0
+Malibu,Arar,Chevrolet,Automatic,Saudi,Standard,2021,1.5,24000,False,1200.0
+Sentra,Jeddah,Nissan,Automatic,Saudi,Semi Full,2017,1.6,55005,False,1139.0
+Aveo,Jeddah,Chevrolet,Manual,Saudi,Semi Full,2008,1.6,30000,False,4500.0
+K5,Aseer,Kia,Automatic,Saudi,Standard,2021,2.5,30000,False,1414.0
+Cherokee,Taef,Jeep,Automatic,Saudi,Full,2015,2.4,180000,False,2122.0
+Azera,Tabouk,Hyundai,Automatic,Saudi,Standard,2018,3.5,147,False,2049.0
+Cerato,Makkah,Kia,Automatic,Saudi,Standard,2020,1.6,31700,False,1500.0
+Passat,Hail,Volkswagen,Automatic,Saudi,Semi Full,2018,2.5,59000,False,2402.0
+Optra,Dammam,Chevrolet,Manual,Saudi,Semi Full,2009,2.0,290000,False,7500.0
+Elantra,Jeddah,Hyundai,Automatic,Saudi,Standard,2019,2.0,89000,False,993.0
+Yaris,Najran,Toyota,Automatic,Saudi,Standard,2019,1.6,85000,False,953.8000000000001
+Corolla,Dammam,Toyota,Manual,Other,Standard,1997,1.3,32500,False,7000.0
+Elantra,Dammam,Hyundai,Automatic,Saudi,Full,2006,2.0,10000,False,7000.0
+F150,Aseer,Ford,Automatic,Saudi,Semi Full,2019,5.7,59000,False,2665.0
+Expedition,Al-Medina,Ford,Automatic,Saudi,Semi Full,2003,5.4,400000,False,5000.0
+Other,Jeddah,Honda,Manual,Saudi,Standard,2011,1.0,4200,False,6500.0
+Elantra,Al-Jouf,Hyundai,Automatic,Gulf Arabic,Semi Full,2018,2.0,83000,False,1324.0
+Camry,Taef,Toyota,Automatic,Saudi,Standard,2021,2.5,10000,False,1519.0
+Yukon,Jubail,GMC,Automatic,Saudi,Full,2019,5.3,50000,False,953.8000000000001
+Tucson,Makkah,Hyundai,Automatic,Saudi,Semi Full,2020,2.0,58000,False,1313.0
+Accent,Qassim,Hyundai,Manual,Saudi,Standard,2008,1.6,250000,False,4000.0
+Land Cruiser,Riyadh,Toyota,Automatic,Saudi,Standard,2020,4.0,30000,False,2560.0
+Sonata,Jeddah,Hyundai,Automatic,Saudi,Full,2020,2.5,17000,False,1430.0
+Corolla,Makkah,Toyota,Automatic,Saudi,Semi Full,2020,1.1,26000,False,1086.0
+Suburban,Al-Medina,Chevrolet,Automatic,Other,Semi Full,1997,6.0,292764,False,4000.0
+Yaris,Riyadh,Toyota,Automatic,Saudi,Standard,2018,1.5,100000,False,953.8000000000001
+K5,Jubail,Kia,Automatic,Saudi,Standard,2021,2.0,61804,False,1630.0
+Optima,Qassim,Kia,Automatic,Saudi,Standard,2019,2.0,91000,False,1440.0
+Carnival,Riyadh,Kia,Automatic,Gulf Arabic,Semi Full,2019,3.6,99000,False,2141.0
+Azera,Tabouk,Hyundai,Automatic,Other,Semi Full,2020,3.5,37000,False,1846.0
+Elantra,Abha,Hyundai,Automatic,Saudi,Semi Full,2020,2.0,27000,False,1010.0
+5,Al-Ahsa,MG,Automatic,Saudi,Standard,2020,1.5,41000,False,988.0
+Explorer,Khobar,Ford,Automatic,Saudi,Standard,2005,4.0,300000,False,7000.0
+SEL,Tabouk,Mercedes,Automatic,Saudi,Full,1986,3.0,500000,False,5500.0
+Azera,Makkah,Hyundai,Automatic,Saudi,Full,2021,3.5,25000,False,2690.0
+Optima,Taef,Kia,Manual,Other,Standard,2006,1.3,290000,False,6000.0
+Rio,Arar,Kia,Automatic,Saudi,Standard,2019,1.4,55500,False,953.8000000000001
+Yukon,Jeddah,GMC,Automatic,Saudi,Standard,2021,5.3,4000,False,1000.0
+Charger,Dammam,Dodge,Automatic,Saudi,Full,2018,5.7,130000,False,2300.0
+Elantra,Jubail,Hyundai,Automatic,Saudi,Semi Full,2018,2.0,200,False,1300.0
+CX5,Khobar,Mazda,Automatic,Saudi,Standard,2021,2.5,5500,False,1262.0
+Hilux,Riyadh,Toyota,Manual,Saudi,Full,2021,2.7,37000,False,1723.0
